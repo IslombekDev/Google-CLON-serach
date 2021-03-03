@@ -1,0 +1,194 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    overflow: hidden;
+}
+.home {
+    padding: 0;
+    margin: 0;
+}
+
+.home_right {
+    position: relative;
+    right: 50px;
+    float: right;
+    margin-top: 17px;
+    padding-right:10px;
+    padding-left: 32px;
+    font-size: 25px;
+    margin-right: 10px;
+}
+
+.home_right a {
+    color: black;
+    font-family: sans-serif;
+    text-decoration: none;
+    font:  13px/27px Roboto, RobotoDraft, Arial, sans-serif;
+    padding: 0 8px;
+}
+
+.pro {
+    position: absolute;
+    padding-left: 10px;
+    bottom: 2px;
+    
+    width: 35px;
+    height: 35px; 
+}
+
+.home_right a:hover {
+    text-decoration: underline;
+    
+}
+
+.body {
+    position: relative;
+    top: 130px;
+    left: 632px;
+}
+
+.gogle_imgaes {
+    position: absolute;
+    
+}
+
+.search {
+    position: relative;
+    top: 154px;
+    text-align: center;
+    border: 1px solid #D2BBB6;
+    width: 585px;
+    margin: auto;
+    border-radius: 30px;
+    opacity: 0.5;
+    
+}
+
+input {
+    width: 486px;
+    height: 45px;
+    font-size: 16px;
+    border: 0;
+    outline: 0;
+    margin: 0 10px;
+   
+}
+
+.search a {
+    color: #836761;
+}
+
+.search:hover {
+    box-shadow: 0 1px 6px gray;
+}
+
+
+.button {
+    display: inline;
+    position: relative;
+    top: 170px;
+    text-align: center;
+}
+
+.button1, .button2 {
+    display: inline;
+    position: relative;
+    left: 625px;
+}
+
+.button1 button {
+    background-color: #f8f9fa;
+    border: 1px solid #f8f9fa;
+    border-radius: 4px;
+    color: #3c4043;
+    font-family: arial,sans-serif;
+    font-size: 14px;
+    margin: 11px 4px;
+    padding: 0 16px;
+    line-height: 27px;
+    height: 36px;
+    min-width: 54px;
+    text-align: center;
+    cursor: pointer;
+    user-select: none;
+}
+
+.text p {
+    font-family: arial;
+    color: #222;
+    font-size: 13.5px;
+    margin-top: 14px;
+    margin-right: 2px;
+    color: #614944;
+    
+}
+
+.text a {
+    text-decoration: none;
+}
+
+.homefooter {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: #F3EFEE;
+   
+}
+
+.uzb {
+    height: 20px;
+    border-bottom: 0.5px solid #D3C3BE;
+    padding-top: 12px;
+    padding-bottom: 10px
+}
+
+.uzb h3 {
+    font-size: 16px;
+    font-family: sans-serif;
+    font-weight: 300;
+    color: #5E5755;
+    
+    
+}
+
+
+.right {
+    float: right;
+    word-spacing: 17px;
+    font-size: 17px;
+    margin-right: 30px;
+}
+.cant {
+    padding-left: 30px;
+}
+
+.data p {
+word-spacing: 17px;
+font-size: 16px;
+padding-bottom: 10px;
+padding-top: 10px;
+color: #5E5755;
+}
+
+.data p:hover {
+    cursor: pointer;
+}
+
+h3 {
+    display: inline;
+}
+
+.h {
+    border: 1px solid red;
+    padding: 10px 0;
+    border-radius: 10%;
+    background-color: aquamarine;
+    background-image: url(googlelogo_color_272x92dp.png);
+    width: 200px;
+    
+    
+}
+
